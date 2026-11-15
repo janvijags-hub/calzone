@@ -1,0 +1,8 @@
+.env
+.env.*
+*.key
+node_modules/
+.DS_Store
+__pycache__/
+mac/calzone_data/raw/
+mac/calzone_data/log.json

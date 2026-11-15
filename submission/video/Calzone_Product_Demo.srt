@@ -1,0 +1,131 @@
+1
+00:00:00,000 --> 00:00:00,898
+This is Calzone.
+
+2
+00:00:00,898 --> 00:00:02,807
+It is part of our HelloVitals app.
+
+3
+00:00:02,807 --> 00:00:06,455
+Take a picture of your food, and Calzone tells you what is in it.
+
+4
+00:00:07,155 --> 00:00:09,469
+Keeping track of what you eat is hard.
+
+5
+00:00:09,469 --> 00:00:11,174
+In space, it is even harder.
+
+6
+00:00:11,174 --> 00:00:15,315
+NASA found that astronauts on the space station ate too little food.
+
+7
+00:00:15,315 --> 00:00:19,516
+They also need more vitamin D, because there is no sunlight in space.
+
+8
+00:00:19,516 --> 00:00:21,830
+And they have to be careful with iron.
+
+9
+00:00:22,530 --> 00:00:24,715
+On the iPhone, open the Calzone tab.
+
+10
+00:00:24,715 --> 00:00:29,450
+You can use smart glasses, take a photo, or upload a picture you already have.
+
+11
+00:00:30,150 --> 00:00:33,101
+A computer program called an AI looks at the plate.
+
+12
+00:00:33,101 --> 00:00:37,209
+In about six seconds, it lists each food and guesses how much there is.
+
+13
+00:00:37,909 --> 00:00:39,779
+But the AI can make mistakes.
+
+14
+00:00:39,779 --> 00:00:41,521
+Here it said chicken curry.
+
+15
+00:00:41,521 --> 00:00:43,391
+It was really a cheese curry.
+
+16
+00:00:43,391 --> 00:00:47,197
+So you check each food, and pick the right one from a list.
+
+17
+00:00:47,897 --> 00:00:49,123
+Now for the numbers.
+
+18
+00:00:49,123 --> 00:00:52,741
+They come from a big government food list, not from the AI.
+
+19
+00:00:52,741 --> 00:00:54,396
+Each nutrient has two bars.
+
+20
+00:00:54,396 --> 00:00:56,419
+One shows what you need on Earth.
+
+21
+00:00:56,419 --> 00:00:58,810
+The other shows what you need in space.
+
+22
+00:00:59,510 --> 00:01:00,250
+Look at iron.
+
+23
+00:01:00,250 --> 00:01:04,178
+On Earth, this plate gives about a quarter of what you need in a day.
+
+24
+00:01:04,178 --> 00:01:06,569
+In space, it is already half of the limit.
+
+25
+00:01:07,269 --> 00:01:08,858
+Add the plate to your day.
+
+26
+00:01:08,858 --> 00:01:13,074
+Calzone adds up everything you eat, on the phone and on the computer.
+
+27
+00:01:13,774 --> 00:01:16,250
+Calzone also works on a computer web page.
+
+28
+00:01:16,250 --> 00:01:20,554
+You can upload pictures, and find real science papers about each vitamin.
+
+29
+00:01:21,254 --> 00:01:27,071
+Everything runs on our own computer, so it works without the internet, just like on a spaceship.
+
+30
+00:01:27,071 --> 00:01:29,009
+And your pictures are not saved.
+
+31
+00:01:29,709 --> 00:01:34,192
+We used AI to help build Calzone, and this voice is made by AI too.
+
+32
+00:01:34,192 --> 00:01:34,727
+Calzone:
+
+33
+00:01:34,727 --> 00:01:37,604
+look at your plate, and know what is in it.

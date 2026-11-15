@@ -1,0 +1,3 @@
+# USDA download (rebuild with tools/build_usda.py) and the personal food log
+raw/
+log.json
